@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraVitoko</string>
+    
+    <string name="btn_text_suma">Suma</string>
+    <string name="btn_text_resta">Resta</string>
+    <string name="btn_text_multiplicacion">Multiplicación</string>
+    <string name="btn_text_division">División</string>
+    
+    <string name="text_hint_numero">Escribe aqui un numero</string>
+</resources>
